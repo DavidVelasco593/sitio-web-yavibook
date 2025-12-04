@@ -1,4 +1,4 @@
-# 📚 **Sistema de Gestión de Biblioteca - YaviBook**  
+# 📚 **Sistema de Gestión de Biblioteca - YaviBooks**  
 
 ¡Bienvenido a **YaviBook**! Un sistema web completo para la gestión de bibliotecas que facilita la administración de **libros**, **usuarios** y **préstamos** de manera eficiente y segura. 🌟
 
